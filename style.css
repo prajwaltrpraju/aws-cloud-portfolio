@@ -260,15 +260,14 @@ footer{
   text-decoration: none;
   font-weight: 600;
 }
-.project-link:hover {
-  text-decoration: underline;
-}
-.demo-link {
-    color: #00bfff;
+.project-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #00d4ff;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 600;
 }
 
-.demo-link:hover {
-    color: white;
+.project-link:hover {
+    text-decoration: underline;
 }
